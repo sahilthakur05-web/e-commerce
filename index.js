@@ -5,7 +5,7 @@ const router = require("./Route/index");
 const mongoose = require("mongoose");
 const dotenv = require("dotenv");
 const path = require("path");
-const { fileURLToPath} = require('url)
+const { fileURLToPath} = require('url')
 // configure env
 dotenv.config();
 const url =
